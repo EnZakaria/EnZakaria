@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EnZakaria
-- 👀 I’m interested in Programming Mobile App
-- 🌱 I’m currently learning Language Dart 
-- 💞️ I’m looking to collaborate on Create App
-- 📫 How to reach me By mail contact@zakariaanouar.com
+👋 Hi, I’m @EnZakaria
+👀 I’m interested in Mobile App Design & Programming.
+🌱 Currently learning The Dart Language.
+💞 looking to collaborate  with App Creators.
+📫 Reach me By email at:  contact@zakariaanouar.com
 
 <!---
 EnZakaria/EnZakaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
